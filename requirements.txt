@@ -1,0 +1,8 @@
+streamlit
+speechrecognition - api
+pyttsx3
+nltk
+numpy
+wikipedia - api
+scikit-learn
+pyaudio
